@@ -4,4 +4,4 @@
 # OKU
 Glicth kullananlar için ayrı package kullanmaları lazımdır
 
-Bu altyapı v12dir ama ``npm uninstall discord.js`` yapıp sonra v13 kurabilirler sıkıntı çıkmaz
+Bu altyapı v12dir ama ``npm uninstall discord.js`` yapıp sonra v13 kurabilirler sıkıntı çıkmaz(tabi intent belirtmeyi ve aktivitiyi değiştirmeyi unutmayn)
